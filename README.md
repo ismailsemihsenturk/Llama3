@@ -11,6 +11,6 @@ This implementation includes the following key features:
 * **Llama 3.0 Architecture Implemented From Scratch:** The Transformer architecture, attention mechanisms, and fundamental building blocks of Llama 3.0 are coded from the ground up.
 * **RoPE (Rotary Positional Embeddings):** The RoPE mechanism is implemented for positional encoding.
 * **KV-Cache (Key-Value Cache):** The KV-Cache mechanism is included for efficient inference.
-* **Custom BPE (Byte Pair Encoding) Implementation:** A BPE algorithm was written from scratch for data preprocessing and tokenization.
+* **Custom BPE (Byte Pair Encoding) Implementation:** A BPE algorithm was written from scratch for data preprocessing and tokenization. [Codes are taken from this repository, I just added explanations](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch02/05_bpe-from-scratch/bpe-from-scratch.ipynb)
 * **Training with Tiny Shakespeare Dataset:** The project is trained on the small and widely used Tiny Shakespeare dataset.
 * **Readable and Well-Commented Code:**  Care has been taken to ensure the code is understandable and learning-oriented. Important sections are explained in detail with comments.
